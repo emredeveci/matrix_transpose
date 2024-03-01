@@ -36,6 +36,6 @@ public class Main {
         printArray(preTranspose);
 
         System.out.println("Transposed:");
-        printArray(preTranspose);
+        printArray(transpose(preTranspose));
     }
 }
